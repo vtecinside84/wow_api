@@ -1,0 +1,17 @@
+EPIC
+Description: I want to be able to extract guild auctions from the WoW API.  
+
+Acceptance Criteria
+View guild auctions
+Sort auctions
+Get notifications.
+
+User Stories
+
+Send Request
+Get Data Back
+Parse Data
+Display Data
+Sort Displayed Auctions - Seller and such
+Notifications - email text
+

@@ -1,4 +1,4 @@
-class Wapi 
+module Wapi 
 
 
 
